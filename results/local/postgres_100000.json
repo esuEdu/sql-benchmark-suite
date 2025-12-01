@@ -1,0 +1,9 @@
+{
+  "db": "postgres",
+  "ops": 100000,
+  "writes_duration_ms": 26023,
+  "reads_duration_ms": 27,
+  "average_write_ms": 0.26023,
+  "average_read_ms": 0.00027,
+  "generated_at": "2025-12-01T14:35:43-03:00"
+}
